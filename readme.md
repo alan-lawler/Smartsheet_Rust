@@ -1,4 +1,4 @@
-#Smartsheet
+# Smartsheet
 
 This program makes API calls to Smartsheet's events endpoint and writes the
 information to a CSV file to be ingested by Splunk.
